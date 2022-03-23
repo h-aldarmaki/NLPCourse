@@ -13,6 +13,6 @@ This repo contains homework and project files for the NLP course at UAEU
 1. Project 1: [ELIZA](ELIZA.ipynb)
 2. Project 2: [Language Models](language-models.ipynb)
 3. Project 3: [Text Classification with Bag of Words Features](Text_Classification.ipynb)
-4. Project 4: [Text Classification with Wrd Embeddings & Feedforward Neural Networks]()
+4. Project 4: [Text Classification with Wrd Embeddings & Feedforward Neural Networks](Feedforward_Networks.ipynb)
 
 
