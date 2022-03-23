@@ -15,4 +15,5 @@ This repo contains homework and project files for the NLP course at UAEU
 3. Project 3: [Text Classification with Bag of Words Features](Text_Classification.ipynb)
 4. Project 4: [Text Classification with Wrd Embeddings & Feedforward Neural Networks](Feedforward_Networks.ipynb)
 
-
+# Additional Examples
+1. [Neural Language Model](NLM.ipynb)
